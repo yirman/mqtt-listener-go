@@ -1,4 +1,4 @@
-# mqpipe
+# Prueba mqtt
 
 Una pequeña aplicación en Go que obtiene mensajes de un broker MQTT y los reenvía.
 
