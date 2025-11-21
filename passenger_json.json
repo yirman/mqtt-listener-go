@@ -1,0 +1,26 @@
+{
+    "lat": 0.0,
+    "lon": 0.0,
+    "bounds" : {
+        "northeast" : {
+            "lat" : 8.2786332,
+            "lng" : -62.71947729999999
+        },
+        "southwest" : {
+            "lat" : 8.271445,
+            "lng" : -62.73864140000001
+        }
+    },
+    "distance" :  {
+        "text" : "3.2 km",
+        "value" : 3192
+    },
+    "duration" : {
+        "text" : "6 min",
+        "value" : 332
+    },
+    "duration_in_traffic" : {
+        "text" : "5 min",
+        "value" : 326
+    }
+}

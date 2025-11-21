@@ -1,0 +1,348 @@
+{
+   "geocoded_waypoints" : 
+   [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRy80rOj7y40RheFtJKKEOLc",
+         "types" : 
+         [
+            "establishment",
+            "point_of_interest",
+            "stadium"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJe5Udelf5y40Ra9KcswzuxI0",
+         "types" : 
+         [
+            "premise",
+            "street_address"
+         ]
+      }
+   ],
+   "routes" : 
+   [
+      {
+         "bounds" : 
+         {
+            "northeast" : 
+            {
+               "lat" : 8.2786332,
+               "lng" : -62.71947729999999
+            },
+            "southwest" : 
+            {
+               "lat" : 8.271445,
+               "lng" : -62.73864140000001
+            }
+         },
+         "copyrights" : "Powered by Google, ©2025 Google",
+         "legs" : 
+         [
+            {
+               "distance" : 
+               {
+                  "text" : "3.2 km",
+                  "value" : 3192
+               },
+               "duration" : 
+               {
+                  "text" : "6 min",
+                  "value" : 332
+               },
+               "duration_in_traffic" : 
+               {
+                  "text" : "5 min",
+                  "value" : 326
+               },
+               "end_address" : "77C7+RPR, Avenida Atlantico, Ciudad Guayana 8050, Bolívar, Venezuela",
+               "end_location" : 
+               {
+                  "lat" : 8.272569100000002,
+                  "lng" : -62.735899
+               },
+               "start_address" : "77GH+PWQ, Ciudad Guayana 8050, Bolívar, Venezuela",
+               "start_location" : 
+               {
+                  "lat" : 8.276446199999999,
+                  "lng" : -62.7199654
+               },
+               "steps" : 
+               [
+                  {
+                     "distance" : 
+                     {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.276032799999999,
+                        "lng" : -62.71947729999999
+                     },
+                     "html_instructions" : "Dirígete al \u003cb\u003esureste\u003c/b\u003e por \u003cb\u003eCarrera Kenia\u003c/b\u003e.",
+                     "polyline" : 
+                     {
+                        "points" : "ynoq@x~x}Jl@y@d@g@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.276446199999999,
+                        "lng" : -62.7199654
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 km",
+                        "value" : 288
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.274258099999999,
+                        "lng" : -62.7213818
+                     },
+                     "html_instructions" : "Gira a la \u003cb\u003ederecha\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "eloq@v{x}JbA`AhAjART~DvE"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.276032799999999,
+                        "lng" : -62.71947729999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.8 km",
+                        "value" : 803
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.278540099999999,
+                        "lng" : -62.726964
+                     },
+                     "html_instructions" : "Gira a la \u003cb\u003ederecha\u003c/b\u003e en la 1ª intersección hacia \u003cb\u003eAv. Pacifico\u003c/b\u003e.",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "caoq@rgy}JaBfBC@_@b@UX_@h@CDi@`AYl@Sl@EJe@bBIVOp@Kj@Ih@CRCNGRK`@Q`@Wd@ILCB[\\c@ZaAl@_B`AuAz@SNIFKHm@X"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.274258099999999,
+                        "lng" : -62.7213818
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "1.5 km",
+                        "value" : 1491
+                     },
+                     "duration" : 
+                     {
+                        "text" : "2 min",
+                        "value" : 98
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.271830599999999,
+                        "lng" : -62.73856719999999
+                     },
+                     "html_instructions" : "Gira a la \u003cb\u003eizquierda\u003c/b\u003e.",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "{{oq@njz}JQJFPd@|@P^P\\HNZl@jAzBHLZn@lBtD`ApBl@lAl@jAn@nA|AxCx@|AP\\d@|@d@|@FLHPbArBTf@`@x@BB\\l@Zh@d@`AHNZl@JRh@hA?@b@z@HNv@fBr@`BXp@^|@JXDH"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.278540099999999,
+                        "lng" : -62.726964
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "56 m",
+                        "value" : 56
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.271445,
+                        "lng" : -62.7384042
+                     },
+                     "html_instructions" : "Gira a la \u003cb\u003eizquierda\u003c/b\u003e.",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "}qnq@`s|}JFLPK^S?ARM"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.271830599999999,
+                        "lng" : -62.73856719999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "4 m",
+                        "value" : 4
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.271461,
+                        "lng" : -62.73836840000001
+                     },
+                     "html_instructions" : "Gira a la \u003cb\u003eizquierda\u003c/b\u003e.",
+                     "maneuver" : "turn-left",
+                     "polyline" : 
+                     {
+                        "points" : "oonq@~q|}JCE"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.271445,
+                        "lng" : -62.7384042
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.3 km",
+                        "value" : 267
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.272672699999999,
+                        "lng" : -62.7362718
+                     },
+                     "html_instructions" : "Continúa recto",
+                     "maneuver" : "straight",
+                     "polyline" : 
+                     {
+                        "points" : "sonq@xq|}JGSEKiDaHy@aB"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.271461,
+                        "lng" : -62.73836840000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "0.1 km",
+                        "value" : 122
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.272680099999999,
+                        "lng" : -62.73516549999999
+                     },
+                     "html_instructions" : "Gira levemente a la \u003cb\u003ederecha\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : 
+                     {
+                        "points" : "ewnq@td|}JAe@@s@AaC"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.272672699999999,
+                        "lng" : -62.7362718
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : 
+                     {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : 
+                     {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : 
+                     {
+                        "lat" : 8.272569100000002,
+                        "lng" : -62.735899
+                     },
+                     "html_instructions" : "Gira a la \u003cb\u003ederecha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEl destino está a la izquierda.\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : 
+                     {
+                        "points" : "gwnq@x}{}JJ?B?@@?@@@@D?B?jA?t@"
+                     },
+                     "start_location" : 
+                     {
+                        "lat" : 8.272680099999999,
+                        "lng" : -62.73516549999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : 
+         {
+            "points" : "ynoq@x~x}JrAaBlClCrElFeBhBu@|@c@n@cAnBYx@o@zB[|AM|@Kb@]bAa@r@_@`@eBhAsEtCy@b@QJFPv@|AZl@lCfFjG`MfEfIdBfDdCfFbB|CzAzCdBtDxBjFLVp@_@ROKYoDmHy@aBAe@?uDN?DJ?dC"
+         },
+         "summary" : "Av. Pacifico",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
